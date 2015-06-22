@@ -1,0 +1,17 @@
+body{
+	padding-top: 60px;
+}
+
+#landing{
+	text-stroke-width: 1px;
+	text-stroke-color: black;
+	height: 300px;
+}
+
+#msg-box{
+	margin-top: 70px;
+}
+
+#mainSearch{
+	margin-bottom: 15px;
+}
